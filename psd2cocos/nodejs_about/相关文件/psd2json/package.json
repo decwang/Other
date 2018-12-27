@@ -1,0 +1,71 @@
+{
+  "_from": "psd2json",
+  "_id": "psd2json@1.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-qx4fpsQfaJEY78UKGrWLuGwtwik=",
+  "_location": "/psd2json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "psd2json",
+    "name": "psd2json",
+    "escapedName": "psd2json",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://r.cnpmjs.org/psd2json/download/psd2json-1.3.0.tgz",
+  "_shasum": "ab1e1fa6c41f689118efc50a1ab58bb86c2dc229",
+  "_spec": "psd2json",
+  "_where": "C:\\Users\\Administrator",
+  "author": {
+    "name": "zprodev",
+    "email": "zproject.develop@gmail.com",
+    "url": "https://github.com/zprodev"
+  },
+  "bin": {
+    "psd2json": "./convert.js"
+  },
+  "bugs": {
+    "url": "https://github.com/zprodev/psd2json/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "psd": "^3.2.0"
+  },
+  "deprecated": false,
+  "description": "Convert PSD to JSON",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "mocha": "^4.0.1",
+    "rimraf": "^2.6.2"
+  },
+  "homepage": "https://github.com/zprodev/psd2json#readme",
+  "keywords": [
+    "psd",
+    "layers",
+    "layout",
+    "parse",
+    "jsx",
+    "json"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "psd2json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zprodev/psd2json.git"
+  },
+  "scripts": {
+    "lint": "eslint index.js && eslint ./test",
+    "lint-fix": "eslint index.js --fix && eslint ./test --fix",
+    "test": "npm run lint && mocha"
+  },
+  "version": "1.3.0"
+}

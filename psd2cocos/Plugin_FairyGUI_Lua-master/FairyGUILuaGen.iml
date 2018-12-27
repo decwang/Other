@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="FairyGUILuaGen">
+    <configurations>
+      <configuration name="FairyGUILuaGen" target-platform="Desktop" pure-as="true" output-type="Library" output-file="FairyGUILuaGen.swc" output-folder="$MODULE_DIR$/out/production/FairyGUILuaGen">
+        <dependencies target-player="11.1">
+          <entries>
+            <entry library-id="0cdeef6e-0fe2-45ff-bfde-2ff0b0d66b06">
+              <dependency linkage="External" />
+            </entry>
+            <entry library-id="d919cd92-7521-4858-a2f7-45954c57b4b2">
+              <dependency linkage="External" />
+            </entry>
+            <entry library-id="fdb7372d-dad6-4c14-a24a-ee632bfcc61b">
+              <dependency linkage="External" />
+            </entry>
+            <entry library-id="d9b6c720-4128-4ceb-8436-5f42c404909e">
+              <dependency linkage="External" />
+            </entry>
+            <entry library-id="92668c59-e629-4621-b6be-4dead8d098ab">
+              <dependency linkage="External" />
+            </entry>
+          </entries>
+          <sdk name="4.6.0" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.6.0" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="0cdeef6e-0fe2-45ff-bfde-2ff0b0d66b06" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/FairyGUI-Editor-PlugIn-Demo-20160612/libs/as3corelib.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="d919cd92-7521-4858-a2f7-45954c57b4b2" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/FairyGUI-Editor-PlugIn-Demo-20160612/libs/FairyGUI-as3.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="fdb7372d-dad6-4c14-a24a-ee632bfcc61b" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/FairyGUI-Editor-PlugIn-Demo-20160612/libs/greensock.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="d9b6c720-4128-4ceb-8436-5f42c404909e" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/FairyGUI-Editor-PlugIn-Demo-20160612/libs/sw3.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="92668c59-e629-4621-b6be-4dead8d098ab" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/FairyGUI-Editor-PlugIn-Demo-20160612/libs/ziparchive0.2.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
