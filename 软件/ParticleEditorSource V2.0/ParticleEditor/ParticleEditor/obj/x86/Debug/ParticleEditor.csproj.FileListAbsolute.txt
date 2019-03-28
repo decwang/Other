@@ -1,0 +1,10 @@
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\Debug.win32\ParticleEditor.exe.config
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\Debug.win32\ParticleEditor.exe
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\Debug.win32\ParticleEditor.pdb
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\ParticleEditor\obj\x86\Debug\ParticleEditor.csprojResolveAssemblyReference.cache
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\ParticleEditor\obj\x86\Debug\ParticleEditor.AboutForm.resources
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\ParticleEditor\obj\x86\Debug\ParticleEditor.ParticleEditorForm.resources
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\ParticleEditor\obj\x86\Debug\ParticleEditor.Properties.Resources.resources
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\ParticleEditor\obj\x86\Debug\ParticleEditor.csproj.GenerateResource.Cache
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\ParticleEditor\obj\x86\Debug\ParticleEditor.exe
+G:\gamePro\other\软件\ParticleEditorSource V2.0\ParticleEditor\ParticleEditor\obj\x86\Debug\ParticleEditor.pdb
